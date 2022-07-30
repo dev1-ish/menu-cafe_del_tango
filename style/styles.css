@@ -38,7 +38,8 @@ hr {
 
 .menu {
     width: 80%;
-    background-color: rgba(222, 184, 135, 0.856); /*burlywood*/
+    /* background-color: rgba(222, 184, 135, 0.856); burlywood */
+    background-color: burlywood;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
